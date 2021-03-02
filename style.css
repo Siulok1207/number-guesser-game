@@ -114,7 +114,7 @@ h1 {
 }
 .btn:active{
   transform: translateY(0);
-  box-shadow: 0 .5rem 1rem rgba(33,33,33,.4); 
+  box-shadow: 0 .5rem 1rem rgba(33,33,33,.3); 
 }
 
 .message {
