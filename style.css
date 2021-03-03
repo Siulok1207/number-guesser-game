@@ -109,7 +109,7 @@ h1 {
 
 .btn:hover {
   background-color: #ccc;
-  transform: translateY(-.2rem);
+  transform: translateY(-.4rem);
   box-shadow: 0 1rem 2.5rem rgba(33,33,33,.4); 
 }
 .btn:active{
